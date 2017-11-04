@@ -1,0 +1,6 @@
+﻿  ParaQuickSort.cpp
+ParaQuickSort.cpp(131): warning #1011: missing return statement at end of non-void function "main1"
+    }
+    ^
+  
+  ParaQuickSortV2.0.cpp
